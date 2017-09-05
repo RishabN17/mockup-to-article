@@ -1,0 +1,4 @@
+1. The use of p tag in place of br.
+2. Applying all the small tags.
+3. Finding the different types of tags to be used.
+4. Reamined calm instead of panicking when i didn't know what to do.
